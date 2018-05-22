@@ -1,0 +1,25 @@
+.buildInput {
+  padding-right: 60px;
+  height: 50vh;
+  background-color: transparent;
+  display: flex;
+  position: fixed;
+}
+.background {
+  background-image: url("https://bountyboosting.com/wp-content/uploads/2017/09/destiny-2-boosting-1-1.jpg");
+  width: 1920px;
+  height: 1080px;
+}
+
+.notesInput {
+  width: 100%;
+}
+
+.LeftSide {
+  flex-flow: row nowrap;
+}
+
+.BuildLists {
+  margin-left: 500px;
+  margin-top: 10px;
+}
